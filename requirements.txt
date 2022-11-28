@@ -1,0 +1,11 @@
+boto3==1.9.216
+ask-sdk-core==1.11.0
+requests
+beautifulsoup4
+lxml
+soupsieve
+urllib3==1.25.0
+certifi
+chardet
+idna
+mechanicalsoup
